@@ -1,3 +1,3 @@
-# Get Involved Page
+# How to Change Text Size or Colors
 
-Preview draft at: https://w3c.github.io/wai-get-involved/
+Preview draft at: https://w3c.github.io/wai-customize-design/

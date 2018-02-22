@@ -25,68 +25,29 @@ This page shows you how to use some of these browser display settings.
 -   "[Should all sites include this?](#alldoit)" explains that including
     these instructions is not an accessibility requirement.
 
-## To Change Text Size
+## To Zoom In or Out
 
-Most Web browsers include functionality to let you increase or decrease
-the text in a Web page. For example, to increase text size:
+Most web browsers include functionality that allows for an increase or decrease text and content in web pages via a feature called browser zoom. Some browsers also give control for text-only size adjustments. Additionally, there are a number of browser extensions or add-ons that provide users addtional control over the display of content.
 
-<table summary="Instructions for changing text size in browser">
-  <tbody>
-    <tr>
-      <th scope="col">Browser</th>
-      <th scope="col">Example</th>
-      <th scope="col">Menu Items</th>
-      <th scope="col">Macintosh Shortcut</th>
-      <th scope="col">Windows Shortcut</th>
-    </tr>
-    <tr>
-      <th scope="row">Internet Explorer</th>
-      <td><p><img src="https://www.w3.org/WAI/about/textsize-ie.png" alt="Internet Explorer screen capture as described in the page"><br>
-        </p>
-      </td>
-      <td>View ▶
-        Text Size ▶
-        Largest</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">Firefox,<br>
-        Netscape</th>
-      <td><img src="https://www.w3.org/WAI/about/textsize-mozilla.png" alt="Firefox/Netscape screen capture as described in the page"><br>
-      </td>
-      <td>View ▶
-        Text Size ▶
-        Increase</td>
-      <td><kbd>Command</kbd>+<kbd>+</kbd></td>
-      <td><kbd>Ctrl</kbd>+<kbd>+</kbd></td>
-    </tr>
-    <tr>
-      <th scope="row">Opera</th>
-      <td><img src="https://www.w3.org/WAI/about/textsize-opera.png" alt="Opera screen capture as described in the page"><br>
-      </td>
-      <td>View ▶
-        Zoom ▶
-        %</td>
-      <td><kbd>Command</kbd>+<kbd>+</kbd>
-      </td>
-      <td><p><kbd>+</kbd></p>
+Most commonly, the commands to increase or decrease zoom levels in browsers are:
 
-        <p><em>or</em></p>
+<ul>
+  <li>Windows, Linux, and Chrome OS: Ctrl and + or Ctrl and - (pressing Ctrl and the plus button or Ctrl and the minus button simultaneously)</li>
+  <li>Mac OS: ⌘ and + or ⌘ and + (pressing command and the plus button or command and the minus button simultaneously)</li>
+</ul>
 
-        <p><kbd>0</kbd></p>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">Safari</th>
-      <td><img src="https://www.w3.org/WAI/about/textsize-safari.png" alt="Safari screen capture as described in the page"></td>
-      <td>View ▶
-        Make Text Bigger</td>
-      <td><kbd>Command</kbd>+<kbd>+</kbd></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+Browser vendors have specific, detailed, and updated guides available for changing the zoom and/or text display sizes. We have collected links to some of these resources for your convenience.
+
+<ul>
+  <li><a href="https://support.mozilla.org/en-US/kb/font-size-and-zoom-increase-size-of-web-pages">Mozilla Firefox - Font size and zoom</a></li>
+  <li><a href="https://support.google.com/chrome/answer/96810?hl=en">Google Chrome - Change text, image, and video sizes (zoom)</a></li>
+  <li><a href="#">Microsoft Edge - is there an official MS page for Edge's zoom feature?</a></li>
+  <li><a href="https://support.apple.com/guide/safari/zoom-in-on-webpages-ibrw1068/mac">Safari - Zoom in on webpages</a></li>
+  <li><a href="https://support.microsoft.com/en-us/help/17456/windows-internet-explorer-ease-of-access-options">Internet Explorer - Ease of access options</a></li>
+ 
+  <li><a href="http://help.opera.com/FreeBSD/12.00/en/zoom.html">Opera - Zoom</a></li>
+  <li><a href="https://help.vivaldi.com/article/zooming-options-in-vivaldi/">Vivaldi - Zooming options in Vivaldi</a></li>
+</ul>
 
 ### Why doesn't this work with some other websites?
 
