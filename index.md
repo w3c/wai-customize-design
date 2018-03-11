@@ -1,6 +1,12 @@
 ---
 title: How to Change Text Size or Colors
 layout: default
+permalink: /meta/customize/
+github:
+  repository: w3c/wai-customize-design
+doc-note-type: draft
+doc-note-message: >
+  This page is in the process of getting a major rewrite and content update.
 ---
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
