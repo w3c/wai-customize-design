@@ -1,6 +1,7 @@
 ---
 title: How to Change Text Size or Colors
 layout: default
+parent: "/"
 permalink: /meta/customize/
 github:
   repository: w3c/wai-customize-design
