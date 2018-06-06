@@ -28,7 +28,7 @@ This page shows you how to use some of these browser display settings.
 
 -   "[Why doesn't this work with some other Web sites?](#notworky)"
     explains that these settings may not work on browsers and Web sites
-    that do not meet [accessibility guidelines](guid-tech).
+    that do not meet [accessibility guidelines]({{ "/standards-guidelines/" | relative_url }}).
 -   "[Should all sites include this?](#alldoit)" explains that including
     these instructions is not an accessibility requirement.
 
@@ -59,7 +59,7 @@ Browser vendors have specific, detailed, and updated guides available for changi
 ### Why doesn't this work with some other websites?
 
 The browser settings on this page should work when browsers and websites
-meet [WAI guidelines](guid-tech) and are designed for accessibility,
+meet [WAI guidelines]({{ "/standards-guidelines/" | relative_url }}) and are designed for accessibility,
 flexibility, and user control. However, some browsers do not provide as
 much user control, and some websites are designed to defeat browser
 settings. Text resizing does not work well in browsers and websites that
@@ -162,7 +162,7 @@ this information to help people who want to know how to change their
 browser settings and may not know how.
 
 Web browsers and websites **should** be designed following [WAI
-guidelines](guid-tech) so that people can easily change text sizes and
+guidelines]({{ "/standards-guidelines/" | relative_url }}) so that people can easily change text sizes and
 colors.
 
 ## Note: No Browser Endorsement
@@ -174,5 +174,5 @@ recommendation.
 
 ## Related Pages
 
--   [Help with the WAI Web Site](sitehelp) includes instructions on
+-   [Help with the WAI Web Site](https://www.w3.org/WAI/sitehelp) includes instructions on
     navigating the WAI Web site and other topics
