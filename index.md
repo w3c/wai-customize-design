@@ -34,7 +34,7 @@ This page shows you how to use some of these browser display settings.
 
 ## To Zoom In or Out
 
-Most web browsers include functionality that allows for an increase or decrease text and content in web pages via a feature called browser zoom. Some browsers also give control for text-only size adjustments. Additionally, there are a number of browser extensions or add-ons that provide users addtional control over the display of content.
+Most web browsers include functionality that allows for an increase or decrease text and content in web pages via a feature called browser zoom. Some browsers also give control for text-only size adjustments. Additionally, there are a number of browser extensions or add-ons that provide users additional control over the display of content.
 
 Most commonly, the commands to increase or decrease zoom levels in browsers are:
 
