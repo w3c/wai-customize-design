@@ -8,7 +8,12 @@ github:
 doc-note-type: draft
 doc-note-message: >
   This page is in the process of getting a major rewrite and content update.
+footer: > # Text in footer in HTML
+  <p><strong>Date:</strong> Incomplete, outdated draft.</p>
+  <p><strong>Editor:</strong> Robert Jolly. Previous editor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>  
 ---
+
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
 {:/}
