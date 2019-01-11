@@ -51,12 +51,11 @@ Most commonly, the commands to increase or decrease zoom levels in browsers are:
 Browser vendors have specific, detailed, and updated guides available for changing the zoom and/or text display sizes. We have collected links to some of these resources for your convenience.
 
 <ul>
-  <li><a href="https://support.mozilla.org/en-US/kb/font-size-and-zoom-increase-size-of-web-pages">Mozilla Firefox - Font size and zoom</a></li>
   <li><a href="https://support.google.com/chrome/answer/96810?hl=en">Google Chrome - Change text, image, and video sizes (zoom)</a></li>
-  <li><a href="#">Microsoft Edge - is there an official MS page for Edge's zoom feature?</a></li>
-  <li><a href="https://support.apple.com/guide/safari/zoom-in-on-webpages-ibrw1068/mac">Safari - Zoom in on webpages</a></li>
+  <li><a href="https://support.mozilla.org/en-US/kb/font-size-and-zoom-increase-size-of-web-pages">Mozilla Firefox - Font size and zoom</a></li>
   <li><a href="https://support.microsoft.com/en-us/help/17456/windows-internet-explorer-ease-of-access-options">Internet Explorer - Ease of access options</a></li>
- 
+  <li><a href="#">Microsoft Edge - [@@is there an official MS page for Edge's zoom feature?]</a></li>
+  <li><a href="https://support.apple.com/guide/safari/zoom-in-on-webpages-ibrw1068/mac">Safari - Zoom in on webpages</a></li>
   <li><a href="http://help.opera.com/FreeBSD/12.00/en/zoom.html">Opera - Zoom</a></li>
   <li><a href="https://help.vivaldi.com/article/zooming-options-in-vivaldi/">Vivaldi - Zooming options in Vivaldi</a></li>
 </ul>
