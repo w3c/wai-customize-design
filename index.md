@@ -37,18 +37,27 @@ This page shows you how to use some of these browser display settings.
 -   "[Should all sites include this?](#alldoit)" explains that including
     these instructions is not an accessibility requirement.
 
-## To Zoom In or Out
+## Change Text Size with Zoom
 
-Most web browsers include functionality that allows for an increase or decrease text and content in web pages via a feature called browser zoom. Some browsers also give control for text-only size adjustments. Additionally, there are a number of browser extensions or add-ons that provide users additional control over the display of content.
+Most web browsers let you increase and decrease the size of text, images, and other web page content with "zoom" features. Some browsers let you choose to change only the text size.
 
-Most commonly, the commands to increase or decrease zoom levels in browsers are:
+To change the zoom in most browsers, press the following two keys at the same time:
 
 <ul>
-  <li>Windows, Linux, and Chrome OS: Ctrl and + or Ctrl and - (pressing Ctrl and the plus button or Ctrl and the minus button simultaneously)</li>
-  <li>Mac OS: ⌘ and + or ⌘ and + (pressing command and the plus button or command and the minus button simultaneously)</li>
+  <li>In Windows, Linux, and Chrome OS:
+    <ul>
+      <li>To zoom bigger: "Ctrl" and "+" keys</li>
+      <li>To zoom smaller: "Ctrl" and "-" keys</li>
+    </ul>
+  <li>Mac OS:
+    <ul>
+      <li>To zoom bigger: "⌘" and "+" keys</li>
+      <li>To zoom smaller: "⌘" and "-" keys</li>
+    </ul>
+  </li>
 </ul>
 
-Browser vendors have specific, detailed, and updated guides available for changing the zoom and/or text display sizes. We have collected links to some of these resources for your convenience.
+Browsers provide specific guidance on diffferent ways to change the zoom and/or text size:
 
 <ul>
   <li><a href="https://support.google.com/chrome/answer/96810?hl=en">Google Chrome - Change text, image, and video sizes (zoom)</a></li>
@@ -59,6 +68,8 @@ Browser vendors have specific, detailed, and updated guides available for changi
   <li><a href="http://help.opera.com/FreeBSD/12.00/en/zoom.html">Opera - Zoom</a></li>
   <li><a href="https://help.vivaldi.com/article/zooming-options-in-vivaldi/">Vivaldi - Zooming options in Vivaldi</a></li>
 </ul>
+
+There are also browser extensions and add-ons that provide additional control over text size.
 
 ### Why doesn't this work with some other websites?
 
