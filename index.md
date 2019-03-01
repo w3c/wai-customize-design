@@ -97,11 +97,20 @@ Turning off the style sheet gives a plain layout view, which:
     </tr>
     <tr>
       <th scope="row">Firefox</th>
-      <td><img src="https://www.w3.org/WAI/about/plainlayout-firefox-mac.png" alt="Firefox screen capture as described in the page"></td>
+      <td><img src="{{ '/assets/img/firefox-view-page-style.png' | relative_url }}" alt="Firefox screen capture as described in the page"></td>
       <td>View ▶<br>
         Page Style ▶<br>
         No Style</td>
     </tr>
+    <tr>
+      <th scope="row">Safari</th>
+      <td><img src="{{ '/assets/img/safari-developer-no-styles.png' | relative_url }}" alt="Safari screen capture as described in the page"></td>
+      <td><p><em>Note: This requires the Develop menu to be enabled under:</em><br>Preferences ▶ Advanced.</p>
+        <p>
+        Develop ▶<br>
+        Disable Styles</p></td>
+    </tr>
+    <!-- Opera no longer has a built-in way to diable styles, like Chrome.
     <tr>
       <th scope="row">Opera</th>
       <td><img src="https://www.w3.org/WAI/about/plainlayout-opera-mac.png" alt="Opera screen capture as described in the page"></td>
@@ -109,6 +118,7 @@ Turning off the style sheet gives a plain layout view, which:
         Style ▶<br>
         User Mode</td>
     </tr>
+    -->
   </tbody>
 </table>
 
