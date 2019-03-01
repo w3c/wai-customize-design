@@ -49,6 +49,7 @@ To change the zoom in most browsers, press the following two keys at the same ti
       <li>To zoom bigger: "Ctrl" and "+" keys</li>
       <li>To zoom smaller: "Ctrl" and "-" keys</li>
     </ul>
+  </li>
   <li>Mac OS:
     <ul>
       <li>To zoom bigger: "⌘" and "+" keys</li>
@@ -59,47 +60,23 @@ To change the zoom in most browsers, press the following two keys at the same ti
 
 Browsers provide specific guidance on diffferent ways to change the zoom and/or text size:
 
-<ul>
-  <li><a href="https://support.google.com/chrome/answer/96810?hl=en">Google Chrome - Change text, image, and video sizes (zoom)</a></li>
-  <li><a href="https://support.mozilla.org/en-US/kb/font-size-and-zoom-increase-size-of-web-pages">Mozilla Firefox - Font size and zoom</a></li>
-  <li><a href="https://support.microsoft.com/en-us/help/17456/windows-internet-explorer-ease-of-access-options">Internet Explorer - Ease of access options</a></li>
-  <li><a href="#">Microsoft Edge - [@@is there an official MS page for Edge's zoom feature?]</a></li>
-  <li><a href="https://support.apple.com/guide/safari/zoom-in-on-webpages-ibrw1068/mac">Safari - Zoom in on webpages</a></li>
-  <li><a href="http://help.opera.com/FreeBSD/12.00/en/zoom.html">Opera - Zoom</a></li>
-  <li><a href="https://help.vivaldi.com/article/zooming-options-in-vivaldi/">Vivaldi - Zooming options in Vivaldi</a></li>
-</ul>
+* [Google Chrome - Change text, image, and video sizes (zoom)](https://support.google.com/chrome/answer/96810?hl=en)
+* [Mozilla Firefox - Font size and zoom](https://support.mozilla.org/en-US/kb/font-size-and-zoom-increase-size-of-web-pages)
+* [Internet Explorer - Ease of access options](https://support.microsoft.com/en-us/help/17456/windows-internet-explorer-ease-of-access-options)
+* [Microsoft Edge - Ease of Access in Microsoft Edge](https://support.microsoft.com/en-gb/help/4000734/windows-10-microsoft-edge-ease-of-access)
+* [Safari - Zoom in on webpages](https://support.apple.com/guide/safari/zoom-in-on-webpages-ibrw1068/mac)
+* [Opera - Zoom](https://help.opera.com/en/latest/browser-window/#zoom)
+* [Vivaldi - Zooming options in Vivaldi](https://help.vivaldi.com/article/zooming-options-in-vivaldi/)
 
 There are also browser extensions and add-ons that provide additional control over text size.
 
 ### Why doesn't this work with some other websites?
 
 The browser settings on this page should work when browsers and websites
-meet [WAI guidelines]({{ "/standards-guidelines/" | relative_url }}) and are designed for accessibility,
-flexibility, and user control. However, some browsers do not provide as
+meet [WAI guidelines]({{ "/standards-guidelines/" | relative_url }}) and are designed for accessibility, flexibility, and user control. However, some browsers do not provide as
 much user control, and some websites are designed to defeat browser
-settings. Text resizing does not work well in browsers and websites that
+settings. Text resizing and browser zoom may not work consistently on websites that
 do not meet accessibility guidelines.
-
--   In **Internet Explorer** Version 6 and earlier, the text may not
-    resize because the Web site is designed with "hard-coded" or
-    "absolute" text sizes. To override Web site setting:
-    1.  *Menu items:* Tools ▶ Internet Options
-    2.  *In Internet Options dialog box:* Accessibility button (bottom
-        right)
-    3.  *In Accessibility dialog box:*<br>
-        \[/\] Ignore colors specified on Web pages<br>
-        \[/\] Ignore font styles specified on Web pages<br>
-        \[/\] Ignore font sizes specified on Web pages
-
--   In **Firefox** early versions, the text should resize even if the
-    Web site text is not "coded" for flexibility. However the sections
-    of the Web site may not resize, making it difficult to use the site
-    with large text. This is because the Web site was designed with
-    "hard-coded" or "absolute" sizes. Firefox does not resize images.
-
--   **Opera** resizes all aspects of a Web site, including font, images,
-    and sections. **Resizing should work fairly well in Opera**, even if
-    the Web site is not "coded" for flexibility.
 
 ## For a Plain Layout View
 
@@ -111,7 +88,7 @@ Turning off the style sheet gives a plain layout view, which:
 -   leaves content images
 -   removes background images
 
-<table summary="Instructions for changing text size in browser">
+<table summary="Instructions for removing styles from (linearizing) layout in browser">
   <tbody>
     <tr>
       <th scope="col">Browser</th>
