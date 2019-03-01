@@ -88,7 +88,9 @@ Turning off the style sheet gives a plain layout view, which:
 -   leaves content images
 -   removes background images
 
-<table summary="Instructions for removing styles from (linearizing) layout in browser">
+Note: Not all browsers allow users to directly disable styles. However, some broswers offer a built-in “Reading Mode” which allows a page to be altered visually to enhance readability. Additionally, there are browser plugins and/or extensions from third-party developers which allow styles to be disabled or reading enhancements to be applied to web pages.
+
+<table summary="Instructions for removing styles from or enhancing the reading layout in browser">
   <tbody>
     <tr>
       <th scope="col">Browser</th>
