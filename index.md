@@ -11,7 +11,11 @@ doc-note-message: >
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 4 March 2019</p>
   <p><strong>Editor:</strong> Robert Jolly. Previous editor: Shawn Lawton Henry.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>  
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+style: |
+  .wai-larger {
+    font-size: 2rem;
+  }
 ---
 
 {::nomarkdown}
@@ -39,24 +43,24 @@ This page shows you how to use some of these browser display settings.
 
 ## Change Text Size with Zoom
 
-Most web browsers let you increase and decrease the size of text, images, and other web page content with "zoom" features. Some browsers let you choose to change only the text size.
-
-To change the zoom in most browsers, press the following two keys at the same time:
-
-<ul>
-  <li>In Windows, Linux, and Chrome OS:
-    <ul>
-      <li>To zoom bigger: "Ctrl" and "+" keys</li>
-      <li>To zoom smaller: "Ctrl" and "-" keys</li>
-    </ul>
-  </li>
-  <li>Mac OS:
-    <ul>
-      <li>To zoom bigger: "⌘" and "+" keys</li>
-      <li>To zoom smaller: "⌘" and "-" keys</li>
-    </ul>
-  </li>
-</ul>
+  <p>Most web browsers let you increase and decrease the size of text, images, and other web page content with "zoom" features. Some browsers let you choose to change only the text size.</p>
+  <div style="font-size:1.4rem;">
+  <p>To change the zoom in most browsers, press the following two keys at the same time:</p>
+  <ul>
+    <li>In Windows, Linux, and Chrome OS:
+      <ul>
+        <li>To zoom bigger: "Ctrl" and "+" keys</li>
+        <li>To zoom smaller: "Ctrl" and "-" keys</li>
+      </ul>
+    </li>
+    <li>Mac OS:
+      <ul>
+        <li>To zoom bigger: "⌘" and "+" keys</li>
+        <li>To zoom smaller: "⌘" and "-" keys</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 Browsers provide specific guidance on diffferent ways to change the zoom and/or text size:
 
