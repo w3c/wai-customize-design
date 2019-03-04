@@ -127,9 +127,20 @@ Note: Not all browsers allow users to directly disable styles. However, some bro
 ## Other Text and Color Changes
 
 Many browsers provide functionality to set different aspects of font and
-color. Below are examples of how to access this functionality.
+color, including offering a “Reading View” for web pages. Below are links to instructions of how to access this functionality.
 
-<table summary="Instructions for changing text size in browser">
+* [Mozilla Firefox - Change the fonts and colors websites use](https://support.mozilla.org/en-US/kb/change-fonts-and-colors-websites-use)
+* [Mozilla Firefox - Reader View for clutter-free web pages](https://support.mozilla.org/en-US/kb/firefox-reader-view-clutter-free-web-pages)
+* [Google Chrome - Set page or font size for all webpages](https://support.google.com/chrome/answer/96810?hl=en&ref_topic=7439724#fontsize)
+* [Microsoft Edge - Change font style and size for Reading view in Microsoft Edge](https://support.microsoft.com/en-us/help/4028023/microsoft-edge-change-font-style-and-size-for-reading-view)
+* [Microsoft Internet Explorer - Ease of Access Options](https://support.microsoft.com/en-us/help/17456/windows-internet-explorer-ease-of-access-options)
+* [Apple Safari - Hide ads when reading articles](https://support.apple.com/en-ca/guide/safari/hide-ads-when-reading-articles-sfri32632/mac)
+  * Note: This article has instructions titled "Change how your webpages look in Reader" which highlights how to customize fonts and colors for easier reading.
+* [Opera - Look and feel > Fonts](https://help.opera.com/en/presto/look-and-feel/#fonts)
+* [Vivaldi - Reader View](https://help.vivaldi.com/article/reader-view/)
+
+<!--
+<table summary="Instructions for changing font and colors in browser">
   <tbody>
     <tr>
       <th scope="col">Browser</th>
@@ -141,7 +152,6 @@ color. Below are examples of how to access this functionality.
       <td><img src="https://www.w3.org/WAI/about/other-firefox-mac.png" alt="Firefox screen capture as described in the page"></td>
       <td><p><em>Windows Menu items:</em>Tools ▶ Options<br>
         <em>Macintosh Menu items:</em> Firefox ▶ Preferences</p>
-
         <p><em>In dialog box:</em> General (in the left pane), Fonts &amp;
         Colors (button)</p>
       </td>
@@ -151,12 +161,12 @@ color. Below are examples of how to access this functionality.
       <td></td>
       <td><p><em>Windows Menu items:</em> Tools ▶ Preferences<br>
         <em>Macintosh Menu items:</em> Opera ▶ Preferences</p>
-
         <p><em>In dialog box:</em> Fonts and Page Style (in the left pane)</p>
       </td>
     </tr>
   </tbody>
-</table>
+</table> 
+-->
 
 ## Should all websites include instructions like this?
 
