@@ -24,7 +24,7 @@ To make text bigger, press two keys at the same time:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page shows you how to change text size, text and background colors, and other display settings through browser settings.
+This page shows you how to change text size, text and background colors, and other display settings through your browser.
 
 {::nomarkdown}
 {% include box.html type="end" %}
