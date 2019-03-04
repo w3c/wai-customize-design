@@ -11,7 +11,7 @@ footer: > # Text in footer in HTML
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
-<div style="font-size:1.4rem; font-weight:bold;" markdown="1">
+<div style="font-size:1.4rem;" markdown="1">
 
 To make text bigger, press two keys at the same time:
 
