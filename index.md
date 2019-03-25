@@ -5,6 +5,7 @@ parent: "/"
 permalink: /meta/customize/
 github:
   repository: w3c/wai-customize-design
+feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 4 March 2019. First published 2005.</p>
   <p><strong>Editors:</strong> Robert Jolly and Shawn Lawton Henry.</p>
