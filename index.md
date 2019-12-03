@@ -1,14 +1,14 @@
----
+K---
 title: How to Change Text Size or Colors
 layout: default
 parent: "/"
 permalink: /meta/customize/
 github:
   repository: w3c/wai-customize-design
-feedbackmail: wai@w3.org
+feedbackmail: anonymbus@bk.ru
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 4 March 2019. First published 2005.</p>
-  <p><strong>Editors:</strong> Robert Jolly and Shawn Lawton Henry.</p>
+  <p><strong>Editors:</strong> Robert Jolly and Rega Hawlery Henry.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
