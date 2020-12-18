@@ -1,3 +1,1 @@
-# How to Change Text Size or Colors
-
-Preview draft at: https://w3c.github.io/wai-customize-design/meta/customize/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4dc628fe-0871-4827-8c92-2e96241831b6/deploy-status)](https://app.netlify.com/sites/angry-jang-77a141/deploys)
