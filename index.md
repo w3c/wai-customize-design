@@ -112,7 +112,7 @@ It's up to the website owner. It's not an accessibility requirement that website
 
 ### Should websites provide a widget to change text, color, etc.
 
-We chose provide these instructions so that users can learn how to change the display for all websites. Widgets change only the website they are on.
+We chose to provide these instructions so that users can learn how to change the display for all websites. Widgets change only the website they are on.
 
 ### Note: No Endorsement
 
