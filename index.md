@@ -7,7 +7,7 @@ github:
   repository: w3c/wai-customize-design
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 4 March 2019. First published 2005. Testing roll-back.</p>
+  <p><strong>Date:</strong> Updated 4 March 2019. First published 2005.</p>
   <p><strong>Editors:</strong> Robert Jolly and Shawn Lawton Henry.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
